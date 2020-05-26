@@ -24,7 +24,7 @@ debug.py
 
 ```
 debug.py
-https://github.com/saeidnahali/Pull-Request-Signed-SoW/blob/Week-6/debug.py
+https://github.com/saeidnahali/Pull-Request-Signed-SoW/blob/master/debug.py
 Persian TECH.docx
 Local: C:\Users\Saeid\PycharmProjects\untitled2
 ```
