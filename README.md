@@ -23,7 +23,8 @@ debug.py
 ### Add any additional ways to run the program below
 
 ```
-debug.py 
+debug.py
+https://github.com/saeidnahali/Pull-Request-Signed-SoW/blob/Week-6/debug.py
 Persian TECH.docx
 Local: C:\Users\Saeid\PycharmProjects\untitled2
 ```
